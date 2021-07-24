@@ -3,10 +3,10 @@ Tic Tac Toe Game
 Technologies : 
  * React JS
 
- *Redux toolKit
+ * Redux toolKit
 
- *Typescript
+ * Typescript
 
- *Styled-components
+ * Styled-components
 
  Result can be seen in this site ()
